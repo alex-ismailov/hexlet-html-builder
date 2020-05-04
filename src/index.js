@@ -1,1 +1,5 @@
-export default (x) => x / 2;
+export default {
+  build(data) {
+    return '';
+  }
+};
